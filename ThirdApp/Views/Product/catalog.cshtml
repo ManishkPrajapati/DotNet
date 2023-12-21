@@ -1,0 +1,18 @@
+@using catalog;
+
+@{
+    ViewData["Title"] = "Catalog Page";
+}
+
+<div>
+
+@{
+    Product p1 = ViewData["computer"] as Product;
+}
+<p>Title :@p1.Title</p>
+<p>Description :@p1.Description</p>
+<p>Price : @p1.UnitPrice</p>
+<p>Quantity : @p1.Quantity</p>
+<img src=@p1.Image alt="not found" height ="200" width="300"/>
+
+</div>
