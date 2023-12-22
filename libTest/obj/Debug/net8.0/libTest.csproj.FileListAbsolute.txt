@@ -1,0 +1,12 @@
+E:\prac deployment\Dotnet\libTest\obj\Debug\net8.0\libTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\prac deployment\Dotnet\libTest\obj\Debug\net8.0\libTest.AssemblyInfoInputs.cache
+E:\prac deployment\Dotnet\libTest\obj\Debug\net8.0\libTest.AssemblyInfo.cs
+E:\prac deployment\Dotnet\libTest\obj\Debug\net8.0\libTest.csproj.CoreCompileInputs.cache
+E:\prac deployment\Dotnet\libTest\obj\Debug\net8.0\libTest.sourcelink.json
+E:\prac deployment\Dotnet\libTest\bin\Debug\net8.0\libTest.deps.json
+E:\prac deployment\Dotnet\libTest\bin\Debug\net8.0\libTest.dll
+E:\prac deployment\Dotnet\libTest\bin\Debug\net8.0\libTest.pdb
+E:\prac deployment\Dotnet\libTest\obj\Debug\net8.0\libTest.dll
+E:\prac deployment\Dotnet\libTest\obj\Debug\net8.0\refint\libTest.dll
+E:\prac deployment\Dotnet\libTest\obj\Debug\net8.0\libTest.pdb
+E:\prac deployment\Dotnet\libTest\obj\Debug\net8.0\ref\libTest.dll
