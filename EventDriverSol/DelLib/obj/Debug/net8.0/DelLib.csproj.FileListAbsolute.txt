@@ -1,0 +1,11 @@
+C:\Users\IET\Documents\DOTNET PRACT\Deleget\EventDriverSol\DelLib\bin\Debug\net8.0\DelLib.deps.json
+C:\Users\IET\Documents\DOTNET PRACT\Deleget\EventDriverSol\DelLib\bin\Debug\net8.0\DelLib.dll
+C:\Users\IET\Documents\DOTNET PRACT\Deleget\EventDriverSol\DelLib\bin\Debug\net8.0\DelLib.pdb
+C:\Users\IET\Documents\DOTNET PRACT\Deleget\EventDriverSol\DelLib\obj\Debug\net8.0\DelLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Documents\DOTNET PRACT\Deleget\EventDriverSol\DelLib\obj\Debug\net8.0\DelLib.AssemblyInfoInputs.cache
+C:\Users\IET\Documents\DOTNET PRACT\Deleget\EventDriverSol\DelLib\obj\Debug\net8.0\DelLib.AssemblyInfo.cs
+C:\Users\IET\Documents\DOTNET PRACT\Deleget\EventDriverSol\DelLib\obj\Debug\net8.0\DelLib.csproj.CoreCompileInputs.cache
+C:\Users\IET\Documents\DOTNET PRACT\Deleget\EventDriverSol\DelLib\obj\Debug\net8.0\DelLib.dll
+C:\Users\IET\Documents\DOTNET PRACT\Deleget\EventDriverSol\DelLib\obj\Debug\net8.0\refint\DelLib.dll
+C:\Users\IET\Documents\DOTNET PRACT\Deleget\EventDriverSol\DelLib\obj\Debug\net8.0\DelLib.pdb
+C:\Users\IET\Documents\DOTNET PRACT\Deleget\EventDriverSol\DelLib\obj\Debug\net8.0\ref\DelLib.dll
