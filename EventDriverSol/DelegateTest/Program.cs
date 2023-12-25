@@ -15,12 +15,12 @@ NotificationOps revadi=new NotificationOps(NotificationServ.SendMail);
 revadi("Manish", "jasghdjasgh");
 
 
-// NotificationServ.SendMail("yeren","Your salary is deposited");
-// NotificationOps proxy = new NotificationOps(NotificationServ.SendSMS);
-// proxy.Invoke("Err","yesiy");
+NotificationServ.SendMail("yeren","Your salary is deposited");
+NotificationOps proxy = new NotificationOps(NotificationServ.SendSMS);
+proxy.Invoke("Err","yesiy");
 
-// NotificationOps pro1 = new NotificationOps(NotificationServ.SendSMS);
-// NotificationOps pro = new NotificationOps(NotificationServ.SendMail);
+NotificationOps pro1 = new NotificationOps(NotificationServ.SendSMS);
+NotificationOps pro = new NotificationOps(NotificationServ.SendMail);
 
 
 

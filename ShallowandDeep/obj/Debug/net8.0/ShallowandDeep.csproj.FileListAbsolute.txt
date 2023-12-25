@@ -1,0 +1,15 @@
+E:\prac deployment\Dotnet\ShallowandDeep\obj\Debug\net8.0\ShallowandDeep.GeneratedMSBuildEditorConfig.editorconfig
+E:\prac deployment\Dotnet\ShallowandDeep\obj\Debug\net8.0\ShallowandDeep.AssemblyInfoInputs.cache
+E:\prac deployment\Dotnet\ShallowandDeep\obj\Debug\net8.0\ShallowandDeep.AssemblyInfo.cs
+E:\prac deployment\Dotnet\ShallowandDeep\obj\Debug\net8.0\ShallowandDeep.csproj.CoreCompileInputs.cache
+E:\prac deployment\Dotnet\ShallowandDeep\obj\Debug\net8.0\ShallowandDeep.sourcelink.json
+E:\prac deployment\Dotnet\ShallowandDeep\bin\Debug\net8.0\ShallowandDeep.exe
+E:\prac deployment\Dotnet\ShallowandDeep\bin\Debug\net8.0\ShallowandDeep.deps.json
+E:\prac deployment\Dotnet\ShallowandDeep\bin\Debug\net8.0\ShallowandDeep.runtimeconfig.json
+E:\prac deployment\Dotnet\ShallowandDeep\bin\Debug\net8.0\ShallowandDeep.dll
+E:\prac deployment\Dotnet\ShallowandDeep\bin\Debug\net8.0\ShallowandDeep.pdb
+E:\prac deployment\Dotnet\ShallowandDeep\obj\Debug\net8.0\ShallowandDeep.dll
+E:\prac deployment\Dotnet\ShallowandDeep\obj\Debug\net8.0\refint\ShallowandDeep.dll
+E:\prac deployment\Dotnet\ShallowandDeep\obj\Debug\net8.0\ShallowandDeep.pdb
+E:\prac deployment\Dotnet\ShallowandDeep\obj\Debug\net8.0\ShallowandDeep.genruntimeconfig.cache
+E:\prac deployment\Dotnet\ShallowandDeep\obj\Debug\net8.0\ref\ShallowandDeep.dll

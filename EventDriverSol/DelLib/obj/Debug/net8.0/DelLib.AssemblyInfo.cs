@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DelLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56d7819a4c455881e7c8897446f95e9fb0391bff")]
 [assembly: System.Reflection.AssemblyProductAttribute("DelLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DelLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

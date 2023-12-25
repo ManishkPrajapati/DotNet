@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "msIzqFCKHb4dl84JAtHWQoDpEINjGkc/A1XOVYxTRfumrL/6b/g0jm3KtRGEVsjALVjPCkmGbWiNIMLMg1NKAQ==",
+  "dgSpecHash": "FaY6FUpozDivtOUIVNPg+/cTKdS5cKHq9rHmvV24Nx1DNgayyMgtriQukeNrYTo7UR2JTp+uY/yMSCy39fGJTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IET\\Documents\\DOTNET PRACT\\Deleget\\EventDriverSol\\DelegateTest\\DelegateTest.csproj",
+  "projectFilePath": "E:\\prac deployment\\Dotnet\\EventDriverSol\\DelegateTest\\DelegateTest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IET\\Documents\\DOTNET PRACT\\Deleget\\EventDriverSol\\DelLib\\DelLib.csproj": {}
+    "E:\\prac deployment\\Dotnet\\EventDriverSol\\DelLib\\DelLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IET\\Documents\\DOTNET PRACT\\Deleget\\EventDriverSol\\DelLib\\DelLib.csproj": {
+    "E:\\prac deployment\\Dotnet\\EventDriverSol\\DelLib\\DelLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IET\\Documents\\DOTNET PRACT\\Deleget\\EventDriverSol\\DelLib\\DelLib.csproj",
+        "projectUniqueName": "E:\\prac deployment\\Dotnet\\EventDriverSol\\DelLib\\DelLib.csproj",
         "projectName": "DelLib",
-        "projectPath": "C:\\Users\\IET\\Documents\\DOTNET PRACT\\Deleget\\EventDriverSol\\DelLib\\DelLib.csproj",
-        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IET\\Documents\\DOTNET PRACT\\Deleget\\EventDriverSol\\DelLib\\obj\\",
+        "projectPath": "E:\\prac deployment\\Dotnet\\EventDriverSol\\DelLib\\DelLib.csproj",
+        "packagesPath": "C:\\Users\\MANISH\\.nuget\\packages\\",
+        "outputPath": "E:\\prac deployment\\Dotnet\\EventDriverSol\\DelLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\MANISH\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
