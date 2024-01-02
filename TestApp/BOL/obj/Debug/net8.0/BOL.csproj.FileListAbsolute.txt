@@ -9,3 +9,15 @@ C:\Users\IET\Documents\DOTNET PRACT\TestApp\BOL\obj\Debug\net8.0\BOL.dll
 C:\Users\IET\Documents\DOTNET PRACT\TestApp\BOL\obj\Debug\net8.0\refint\BOL.dll
 C:\Users\IET\Documents\DOTNET PRACT\TestApp\BOL\obj\Debug\net8.0\BOL.pdb
 C:\Users\IET\Documents\DOTNET PRACT\TestApp\BOL\obj\Debug\net8.0\ref\BOL.dll
+E:\prac deployment\Dotnet\TestApp\BOL\bin\Debug\net8.0\BOL.deps.json
+E:\prac deployment\Dotnet\TestApp\BOL\bin\Debug\net8.0\BOL.dll
+E:\prac deployment\Dotnet\TestApp\BOL\bin\Debug\net8.0\BOL.pdb
+E:\prac deployment\Dotnet\TestApp\BOL\obj\Debug\net8.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+E:\prac deployment\Dotnet\TestApp\BOL\obj\Debug\net8.0\BOL.AssemblyInfoInputs.cache
+E:\prac deployment\Dotnet\TestApp\BOL\obj\Debug\net8.0\BOL.AssemblyInfo.cs
+E:\prac deployment\Dotnet\TestApp\BOL\obj\Debug\net8.0\BOL.csproj.CoreCompileInputs.cache
+E:\prac deployment\Dotnet\TestApp\BOL\obj\Debug\net8.0\BOL.sourcelink.json
+E:\prac deployment\Dotnet\TestApp\BOL\obj\Debug\net8.0\BOL.dll
+E:\prac deployment\Dotnet\TestApp\BOL\obj\Debug\net8.0\refint\BOL.dll
+E:\prac deployment\Dotnet\TestApp\BOL\obj\Debug\net8.0\BOL.pdb
+E:\prac deployment\Dotnet\TestApp\BOL\obj\Debug\net8.0\ref\BOL.dll
