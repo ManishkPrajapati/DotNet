@@ -1,0 +1,44 @@
+@using BOL;
+@using BLL;
+@{
+  ViewData["Title"] = "Update";
+}
+<form method="post">
+  <div class="form-group">
+    <label class="col-md-4 control-label">ID</label>
+    <div class="col-md-4 inputGroupContainer">
+      <div class="input-group">
+        <span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span>
+        <input name="ID" class="form-control" type="number" value="@Model.Id" readonly>
+      </div>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label class="col-md-4 control-label">Name</label>
+    <div class="col-md-4 inputGroupContainer">
+      <div class="input-group">
+        <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+        <input name="name" placeholder="Name" class="form-control" type="text">
+      </div>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label class="col-md-4 control-label">Amount</label>
+    <div class="col-md-4 inputGroupContainer">
+      <div class="input-group">
+        <span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span>
+        <input name="Price" placeholder="Amount" class="form-control" type="number">
+      </div>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label class="col-md-4 control-label"></label>
+    <div class="col-md-4">
+      <button type="submit" class="btn btn-warning">Update<span class="glyphicon glyphicon-send"></span></button>
+    </div>
+  </div>
+
+</form>
