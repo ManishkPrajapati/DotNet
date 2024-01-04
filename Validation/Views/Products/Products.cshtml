@@ -20,7 +20,7 @@
   List<Products> allProd = (List<Products>)this.ViewData["product"];
 }
 
-<body class="tab" style="background-image: url(../images/electronics.png);">
+<body class="tab">
   <div>
     <table class="container">
       <thead>
@@ -43,7 +43,7 @@
 
         @foreach (Products p in allProd)
         {
-          <tr>
+          <tr style="background-color: rgb(93, 54, 54);">
             <td>@p.Id</td>
             <td>@p.Name</td>
             <td>@p.Price</td>

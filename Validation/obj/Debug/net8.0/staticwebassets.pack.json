@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Validation.bundle.scp.css"
     },
     {
+      "Id": "E:\\prac deployment\\Dotnet\\Validation\\wwwroot\\css\\products.css",
+      "PackagePath": "staticwebassets\\css\\products.css"
+    },
+    {
       "Id": "E:\\prac deployment\\Dotnet\\Validation\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -13,8 +17,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\prac deployment\\Dotnet\\Validation\\wwwroot\\images\\ElecBack.jpg",
+      "PackagePath": "staticwebassets\\images\\ElecBack.jpg"
+    },
+    {
       "Id": "E:\\prac deployment\\Dotnet\\Validation\\wwwroot\\images\\electronics.png",
       "PackagePath": "staticwebassets\\images\\electronics.png"
+    },
+    {
+      "Id": "E:\\prac deployment\\Dotnet\\Validation\\wwwroot\\images\\openElec.jpg",
+      "PackagePath": "staticwebassets\\images\\openElec.jpg"
     },
     {
       "Id": "E:\\prac deployment\\Dotnet\\Validation\\wwwroot\\images\\wholesale-electronics.jpeg",

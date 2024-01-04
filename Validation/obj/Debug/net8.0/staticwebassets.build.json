@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "280Im97VONM1B+EMD+gIVTZCNFb17zPHjHIdQwBiiGk=",
+  "Hash": "AVGvQ2x1/u1Q59f3nvbEO/j5Xz65/QANBdZZB7VJB6M=",
   "Source": "Validation",
   "BasePath": "_content/Validation",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "E:\\prac deployment\\Dotnet\\Validation\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Validation.bundle.scp.css"
     },
     {
+      "Identity": "E:\\prac deployment\\Dotnet\\Validation\\wwwroot\\css\\products.css",
+      "SourceId": "Validation",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\prac deployment\\Dotnet\\Validation\\wwwroot\\",
+      "BasePath": "_content/Validation",
+      "RelativePath": "css/products.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\products.css"
+    },
+    {
       "Identity": "E:\\prac deployment\\Dotnet\\Validation\\wwwroot\\css\\site.css",
       "SourceId": "Validation",
       "SourceType": "Discovered",
@@ -93,6 +112,25 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "E:\\prac deployment\\Dotnet\\Validation\\wwwroot\\images\\ElecBack.jpg",
+      "SourceId": "Validation",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\prac deployment\\Dotnet\\Validation\\wwwroot\\",
+      "BasePath": "_content/Validation",
+      "RelativePath": "images/ElecBack.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ElecBack.jpg"
+    },
+    {
       "Identity": "E:\\prac deployment\\Dotnet\\Validation\\wwwroot\\images\\electronics.png",
       "SourceId": "Validation",
       "SourceType": "Discovered",
@@ -110,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\electronics.png"
+    },
+    {
+      "Identity": "E:\\prac deployment\\Dotnet\\Validation\\wwwroot\\images\\openElec.jpg",
+      "SourceId": "Validation",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\prac deployment\\Dotnet\\Validation\\wwwroot\\",
+      "BasePath": "_content/Validation",
+      "RelativePath": "images/openElec.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\openElec.jpg"
     },
     {
       "Identity": "E:\\prac deployment\\Dotnet\\Validation\\wwwroot\\images\\wholesale-electronics.jpeg",
