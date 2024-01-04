@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\prac deployment\\Dotnet\\CRUDmvc\\wwwroot\\images\\electronics.png",
+      "PackagePath": "staticwebassets\\images\\electronics.png"
+    },
+    {
       "Id": "E:\\prac deployment\\Dotnet\\CRUDmvc\\wwwroot\\images\\wholesale-electronics.jpeg",
       "PackagePath": "staticwebassets\\images\\wholesale-electronics.jpeg"
     },

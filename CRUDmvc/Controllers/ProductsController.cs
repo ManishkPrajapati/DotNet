@@ -64,7 +64,7 @@ public class ProductsController : Controller
 
 
   [Route("Products/Delete/{id}")]
-  public IActionResult Edit(int id)
+  public IActionResult Delete(int id)
   {
     ProductManager pd = new ProductManager();
     bool status = pd.DeleteProducts(id);

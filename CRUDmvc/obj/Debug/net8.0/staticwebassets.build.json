@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SDI0n0iU7xHBmbr7r/PAjW7tk8hVMgnH/Tm3mUmnU3Y=",
+  "Hash": "9LIkNC64eLlnrWxgAxFOLplHNEShSZn7xC3EZaa/yFA=",
   "Source": "CRUDmvc",
   "BasePath": "_content/CRUDmvc",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "E:\\prac deployment\\Dotnet\\CRUDmvc\\wwwroot\\images\\electronics.png",
+      "SourceId": "CRUDmvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\prac deployment\\Dotnet\\CRUDmvc\\wwwroot\\",
+      "BasePath": "_content/CRUDmvc",
+      "RelativePath": "images/electronics.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\electronics.png"
     },
     {
       "Identity": "E:\\prac deployment\\Dotnet\\CRUDmvc\\wwwroot\\images\\wholesale-electronics.jpeg",

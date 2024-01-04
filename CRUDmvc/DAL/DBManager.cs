@@ -16,7 +16,7 @@ public class DBManager
     conn.ConnectionString = conString;
     try
     {
-      string query = "select * from products";
+      string query = "select * from products order by id";
       conn.Open();
       MySqlCommand cmd = new MySqlCommand(query, conn);
       MySqlDataReader reader = cmd.ExecuteReader();
