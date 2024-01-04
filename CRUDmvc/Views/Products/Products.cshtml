@@ -7,39 +7,53 @@
   ViewData["Title"] = "Products";
 }
 
+
+<head>
+  <link rel="stylesheet" href="~/css/products.css" asp-append-version="true" />
+</head>
+
+
+
+
+
 @{
   List<Products> allProd = (List<Products>)this.ViewData["product"];
 }
-<table class="container">
-  <thead>
-    <tr>
-      <th>
-        <h1>Id</h1>
-      </th>
-      <th>
-        <h1>Names</h1>
-      </th>
-      <th>
-        <h1>Price</h1>
-      </th>
-      <th>
-        <h1>Action</h1>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
 
-    @foreach (Products p in allProd)
-    {
-      <tr>
-        <td>@p.Id</td>
-        <td>@p.Name</td>
-        <td>@p.Price</td>
-        <td><a href="Edit/@p.Id" name="id" value="@p.Id">Edit</a></td>
-      </tr>
-    }
-  </tbody>
-</table>
+<body class="tab" style="background-image: url(../images/electronics.png);">
+  <div>
+    <table class="container">
+      <thead>
+        <tr>
+          <th>
+            <h1>Id</h1>
+          </th>
+          <th>
+            <h1>Names</h1>
+          </th>
+          <th>
+            <h1>Price</h1>
+          </th>
+          <th>
+            <h1>Action</h1>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+
+        @foreach (Products p in allProd)
+        {
+          <tr>
+            <td>@p.Id</td>
+            <td>@p.Name</td>
+            <td>@p.Price</td>
+            <td><a href="Edit/@p.Id" name="id" value="@p.Id">Edit</a></td>
+          </tr>
+        }
+      </tbody>
+    </table>
 
 
-<a href="Insert">Add Product</a>
+    <a href="Insert">Add Product</a>
+
+</body>

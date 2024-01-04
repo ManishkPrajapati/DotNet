@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "e2qcwhObNBYMLJzJX8jdRRWDDmPrmyRvx0VPFkwdzgw=",
+  "Hash": "SDI0n0iU7xHBmbr7r/PAjW7tk8hVMgnH/Tm3mUmnU3Y=",
   "Source": "CRUDmvc",
   "BasePath": "_content/CRUDmvc",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "E:\\prac deployment\\Dotnet\\CRUDmvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUDmvc.bundle.scp.css"
     },
     {
+      "Identity": "E:\\prac deployment\\Dotnet\\CRUDmvc\\wwwroot\\css\\products.css",
+      "SourceId": "CRUDmvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\prac deployment\\Dotnet\\CRUDmvc\\wwwroot\\",
+      "BasePath": "_content/CRUDmvc",
+      "RelativePath": "css/products.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\products.css"
+    },
+    {
       "Identity": "E:\\prac deployment\\Dotnet\\CRUDmvc\\wwwroot\\css\\site.css",
       "SourceId": "CRUDmvc",
       "SourceType": "Discovered",
@@ -91,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "E:\\prac deployment\\Dotnet\\CRUDmvc\\wwwroot\\images\\wholesale-electronics.jpeg",
+      "SourceId": "CRUDmvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\prac deployment\\Dotnet\\CRUDmvc\\wwwroot\\",
+      "BasePath": "_content/CRUDmvc",
+      "RelativePath": "images/wholesale-electronics.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\wholesale-electronics.jpeg"
     },
     {
       "Identity": "E:\\prac deployment\\Dotnet\\CRUDmvc\\wwwroot\\js\\site.js",

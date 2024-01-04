@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\CRUDmvc.bundle.scp.css"
     },
     {
+      "Id": "E:\\prac deployment\\Dotnet\\CRUDmvc\\wwwroot\\css\\products.css",
+      "PackagePath": "staticwebassets\\css\\products.css"
+    },
+    {
       "Id": "E:\\prac deployment\\Dotnet\\CRUDmvc\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "E:\\prac deployment\\Dotnet\\CRUDmvc\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\prac deployment\\Dotnet\\CRUDmvc\\wwwroot\\images\\wholesale-electronics.jpeg",
+      "PackagePath": "staticwebassets\\images\\wholesale-electronics.jpeg"
     },
     {
       "Id": "E:\\prac deployment\\Dotnet\\CRUDmvc\\wwwroot\\js\\site.js",

@@ -62,4 +62,18 @@ public class ProductsController : Controller
     return View();
   }
 
+
+  [Route("Products/Delete/{id}")]
+  public IActionResult Edit(int id)
+  {
+    ProductManager pd = new ProductManager();
+    bool status = pd.DeleteProducts(id);
+    if (status)
+    {
+      return this.RedirectToAction("Products");
+    }
+    return View();
+  }
+
+
 }

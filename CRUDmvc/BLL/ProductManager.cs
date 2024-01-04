@@ -24,4 +24,9 @@ public class ProductManager
     return DBManager.UpdateProduct(id, name, price);
   }
 
+  public bool DeleteProducts(int id)
+  {
+    return DBManager.RemoveProduct(id);
+  }
+
 }

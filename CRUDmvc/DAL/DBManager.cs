@@ -138,4 +138,34 @@ public class DBManager
   }
 
 
+  public static bool RemoveProduct(int Id)
+  {
+    MySqlConnection conn = new MySqlConnection();
+    conn.ConnectionString = conString;
+    string query = "delete from products where id = @Id";
+    try
+    {
+      MySqlCommand cmd = new MySqlCommand(query, conn);
+      cmd.Parameters.AddWithValue("@Id", Id);
+      conn.Open();
+      int n = cmd.ExecuteNonQuery();
+      if (n > 0)
+      {
+        return true;
+      }
+      return false;
+    }
+    catch (Exception e)
+    {
+      throw e;
+    }
+    finally
+    {
+      conn.Close();
+    }
+    return false;
+  }
+
+
+
 }
